@@ -1,6 +1,6 @@
 # Keylogger
 
-**Keylogger** is simple keylogger for Windows, Linux and Mac.
+**Keylogger** is simple keylogger for Linux.
 ## Installation
 
 The following instructions will install Keylogger using pip3 .
